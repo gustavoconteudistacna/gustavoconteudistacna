@@ -13,7 +13,7 @@
 
 **`// iniciando sistema... acesso concedido`**
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00FFCC&center=true&vCenter=true&width=500&lines=Dev+Full+Stack+%7C+[CARGO+DESEJADO];Transformando+caf%C3%A9+em+c%C3%B3digo+desde+[ANO];Brasil+%F0%9F%87%A7%F0%9F%87%B7+%7C+Aberto+a+oportunidades)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00FFCC&center=true&vCenter=true&width=500&lines=Dev+Full+Stack+%7C+;Transformando+caf%C3%A9+em+c%C3%B3digo+desde+[ANO];Brasil+%F0%9F%87%A7%F0%9F%87%B7+%7C+Aberto+a+oportunidades)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU_USUARIO)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEU_EMAIL@gmail.com)
