@@ -26,8 +26,8 @@
 ▓▒░ **`ABOUT.exe`** ░▒▓
 
 ```yaml
-name:     "[SEU NOME COMPLETO]"
-role:     "[CARGO DESEJADO]"
+name:     "GUSTAVO"
+role:     "DEV FULL STACK MERN"
 location: "Brasil 🇧🇷"
 status:   "Buscando oportunidades 👾"
 coffee:   "sim, sempre"
@@ -74,16 +74,12 @@ coffee:   "sim, sempre"
 
 ```
 ⚡  [O QUE VOCÊ GOSTA DE FAZER — TÉCNICO]
-    Ex: Criar automações que economizam horas de trabalho manual
+    Jogar, estudar e treinar
 
 🎮  [O QUE VOCÊ GOSTA DE FAZER — PESSOAL/CRIATIVO]
-    Ex: Desenvolver jogos web como hobby
+    Impressão 3D e pintura
 
-📊  [OUTRO INTERESSE]
-    Ex: Explorar visualização de dados e dashboards
 
-🔬  [OUTRO INTERESSE]
-    Ex: Projetos com computer vision e IA aplicada
 ```
 
 ---
@@ -93,10 +89,10 @@ coffee:   "sim, sempre"
 ```bash
 $ whoami --goal
 
-> Buscando vaga como [CARGO DESEJADO]
-> Foco em [ÁREA DE INTERESSE — ex: back-end, dados, full stack]
-> Disponível para [CLT / freela / estágio — escolha o seu]
-> Localização: [CIDADE] — remoto preferencial
+> Buscando vaga como desenvolvedor fullstack
+> Foco em fullstack
+> Disponível para CLT ou PJ
+> Localização: remoto preferencial
 ```
 
 ---
