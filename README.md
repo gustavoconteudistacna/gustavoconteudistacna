@@ -9,7 +9,7 @@
 ╚═════╝ ╚══════╝  ╚═══╝
 ```
 
-### `[ SEU_NOME ]`
+### `[GUSTAVO]`
 
 **`// iniciando sistema... acesso concedido`**
 
