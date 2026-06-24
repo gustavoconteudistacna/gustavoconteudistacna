@@ -33,10 +33,6 @@ status:   "Buscando oportunidades 👾"
 coffee:   "sim, sempre"
 ```
 
-> [ESCREVA AQUI SUA APRESENTAÇÃO — 2 A 3 FRASES]
-> Ex: "Sou desenvolvedor apaixonado por resolver problemas reais com código limpo.
-> Gosto de unir criatividade e lógica para construir experiências que fazem sentido para quem usa."
-
 ---
 
 ▓▒░ **`STACK.config`** ░▒▓
@@ -94,25 +90,3 @@ $ whoami --goal
 > Disponível para CLT ou PJ
 > Localização: remoto preferencial
 ```
-
----
-
-▓▒░ **`STATS.json`** ░▒▓
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=radical&hide_border=true&bg_color=0d0d0d&title_color=00ffcc&icon_color=ff00ff&text_color=ffffff)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=radical&hide_border=true&bg_color=0d0d0d&title_color=00ffcc&text_color=ffffff)
-
-</div>
-
----
-
-<div align="center">
-
-`// [SEU_NOME] · [ANO] · Brasil`
-
-**`> compiling dreams into production... █`**
-
-</div>
